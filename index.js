@@ -1,1 +1,3 @@
-// Your code here
+// const mapToNegativize.map(number => {
+//     return Math.abs(number)
+// })
